@@ -1,0 +1,2 @@
+[2018-12-26 16:56:35,982] [ERROR] [logger_setting] [error] [161] [12345上山打老虎]
+[2018-12-26 16:56:35,982] [DEBUG] [logger_setting] [debug] [137] [saddsa]
